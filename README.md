@@ -32,9 +32,8 @@
 ![Qdrant](https://img.shields.io/badge/Qdrant-00b3b3?style=for-the-badge&logo=qdrant&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChainGo](https://img.shields.io/badge/LangChainGo-000000?style=for-the-badge&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-ff6600?style=for-the-badge&logo=semantic-release&logoColor=white)
-![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-800080?style=for-the-badge)
 
 ## 🛠️ DevOps :
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,13 +42,14 @@
 
 ## ⚡ Tools :
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-<h2 align="center">🚀 Current Side Projects</h2>
+<h2 align="center">🚀 Current Projects</h2>
 
-- 👨‍💻 **Tech Trend Platform**：Go + Gin / PostgreSQL / Qdrant / LangChainGo / RAG
-- 📚 **Indigenous MALL APP**：Flutter / FastAPI / MongoDB / AI Virtual Character / Knowledge Distillation
+- 👨‍💻 **Tech Trend Platform**：Go + Gin / PostgreSQL / Qdrant / LangChain / RAG
+- 📚 **Indigenous MALL APP**：Flutter / FastAPI / MongoDB / AI Virtual Character / LLM Fine-Tuning
 
 ---
